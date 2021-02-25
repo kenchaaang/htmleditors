@@ -2,7 +2,7 @@
 
 <head><title>Editors</title></head>
 
-<body background="C:\Users\Nets\Downloads\writing-1.jpg" style="background-repeat; background-size:100% 100%">
+<body background="writing-1.jpg" style="background-repeat; background-size:100% 100%">
 
 <p align=center>
 <font size= "7", color= "black", face="Times New Roman"><b><u>Editors</u></b></font>
@@ -12,9 +12,9 @@
 <table border="1", align="center", <bordercolor="#2F4F4F">
 
 <tr>
-<td>=<img src="C:\Users\Nets\Downloads\Picture1.jpg" alt="" border=3 height=300 width=300></img></td></td>
-<td>=<img src="C:\Users\Nets\Documents\Picture3.jpg" alt="" border=3 height=300 width=300></img></td></td>
-<td>=<img src="C:\Users\Nets\Documents\Picture4.jpg" alt="" border=3 height=300 width=300></img></td></td>
+<td>=<img src="Picture1.jpg" alt="" border=3 height=300 width=300></img></td></td>
+<td>=<img src="Picture3.jpg" alt="" border=3 height=300 width=300></img></td></td>
+<td>=<img src="Picture4.jpg" alt="" border=3 height=300 width=300></img></td></td>
 </tr>
 
 <p align=center><font size= "6", color= "black", face="Times New Roman"><b><u>Webpage Editors</u></b></font>
@@ -25,8 +25,8 @@
 <table>
 <table border="1", align="center", <bordercolor="#2F4F4F">
 <tr>
-<td>=<img src="C:\Users\Nets\Documents\Picture2.jpg" alt="" border=3 height=300 width=300></img></td></td>
-<td>=<img src="C:\Users\Nets\Documents\Picture5.png" alt="" border=3 height=300 width=300></img></td></td>
+<td>=<img src="Picture2.jpg" alt="" border=3 height=300 width=300></img></td></td>
+<td>=<img src="Picture5.png" alt="" border=3 height=300 width=300></img></td></td>
 </tr>
 
 <p align=center><font size= "6", color= "black", face="Times New Roman"><b><u>Video Editor</u></b></font>
